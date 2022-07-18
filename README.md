@@ -71,13 +71,15 @@ npm install
 ## Links to content that helped me with this project
 
 1. The Odin Project
+	- [React Introduction](https://www.theodinproject.com/lessons/node-path-javascript-react-introduction)
+	- [React State & Props](https://www.theodinproject.com/lessons/node-path-javascript-state-and-props)
 
 2. Scrimba
 
 3. React Official Documentation
 
 4. Figma Design
-	-[React Facts](https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0%3A1)
+	- [React Facts](https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0%3A1)
 
 
 
