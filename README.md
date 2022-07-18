@@ -24,6 +24,7 @@ This project is created to practice ReactJS and includes fun facts about **React
 
 	- NPM
 	- ReactJS
+	- Custom Components
 
 <!-- ## Usage
 
@@ -75,7 +76,7 @@ npm install
 	- [React State & Props](https://www.theodinproject.com/lessons/node-path-javascript-state-and-props)
 
 2. Scrimba
-	-[React Facts Project](https://scrimba.com/learn/learnreact/project-part-1-markup-coc7e4be18a0fe000d0e29e32)
+	- [React Facts Project](https://scrimba.com/learn/learnreact/project-part-1-markup-coc7e4be18a0fe000d0e29e32)
 
 3. React Official Documentation
 	- [React Hello World Example](https://reactjs.org/docs/hello-world.html)
