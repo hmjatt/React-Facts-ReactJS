@@ -106,8 +106,8 @@ npm install
 
 
 #### Quote
-<!-- 
-    “Keep your face always toward the sunshine - and shadows will fall behind you.”
-    — Walt Whitman
+
+    “We cannot solve problems with the kind of thinking we employed when we came up with them.”
+    — Albert Einstein
 >  	
-> :package: :yarn: :watch: -->
+> :package: :yarn: :watch:
