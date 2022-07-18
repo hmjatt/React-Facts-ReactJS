@@ -40,67 +40,38 @@ npm install
 
 	
 ## Steps I followed to complete this project
-<!-- 
-1. ### Twitter Elevated Access
-	- [x] Create an application on `Twitter Developer Portal`
-	- [x] Apply for `Elevated access` if you don't have one
 
-2. ### Setup Node App
-	- [x] Install **NPM** using `npm init -y` to skip questions.
-	- [x] Create `index.js` to test node.
-	
-3. ### Twitter Client
-	- [x] Install **Twitter API V2** package using `npm i twitter-api-v2`.
-	- [x] Create a `twitterClient.js` module which connects to **Twitter API V2**.
-	- [x] Install **Dotenv** package using `npm install dotenv --save`.
-	- [x] Create a project at `https://developer.twitter.com/en/portal/projects/new`.
-	- [x] Create a `.env` file and copy **API Keys** to that file.
-	- [x] Create a `testTweet()` method inside `index.js` to test API.
-	- [x] Check Twitter App if it works, it should tweet the string inside method(IT WORKS :tada:)
-	- [x] Delete or comment `testTweet()` method because it worked and is no longer needed.
+1. ### Project part 1 - markup
+	- [ ] 4:44
+2. ### Pop quiz!
 
-4. ### Get Followers
-	- [x] Create a `twitterController.js` module which collects data from **Twitter API**.
-	- [x] Get **Twitter ID** from [Tweeterid](https://tweeterid.com/)
-	- [x] Create `getFollowers()` method in `twitterController.js` which returns **3 latest followers**
-	- [x] Test `getFollowers()` method(IT WORKS :fireworks:)
-	- [x] Create a wrapper function `generateHeader()` in `index.js` which allows us to fetch followers, their images, save images and update our header dynamically.
+3. ### Custom Components
 
-5. ### Save Follower Images
-	- [x] Create `getProfileImageUrl()` method in `twitterController.js` which returns **profile image URL from followers**.
-	- [x] Create `imageController.js` module which contains methods to manipulate images.
-	- [x] Install **Axios** package using `npm i axios`, which performs our HTTP requests.
-	- [x] Install **Sharp** package using `npm i sharp`, which modifies fetched images and save it to our **File System**.
-	- [x] Create `saveImage()` method in `imageController.js` which fetches **rounded** profile picture of followers using axios and save them to our **images** folder.
-	- [x] Call `getProfileImageUrl()` and `saveImage()` methods in `index.js` module.
-	- [x] Test `generateHeader()` wrapper function and check if images are fetched(IT WORKS :partying_face:)
+4. ### Custom Components part 2
 
-6. ### Create Header
+5. ### Custom Components Quiz
 
-	- [x] Install **Jimp** package using `npm install --save jimp`, which will help us create **Dynamic Twitter Header**.
-	- [x] Import required dependencies on top of `imageController.js` module.
-	- [x] Create a `createHeader()` method in `imageController.js` module which creates `dynamicTwitterHeader.png` using `headerTemplate.png` and fetched profile picture of our **followers**.
-	- [x] Test `createHeader()` method and check if **dynamicTwitterHeader.png** is successfuly created(IT WORKS :tada:)
+6. ### Parent/Child Components
 
-7. ### Update Header
-	- [x] Create a `updateHeader()` method in `twitterController.js` module which uploads **dynamicTwitterHeader.png** to Twitter.
-	- [x] Test `updateHeader()` method and check if **dynamicTwitterHeader.png** is successfuly uploaded to Twitter(IT WORKS wooohoooo :partying_face:)
+7. ### Styling with Classes
 
-8. ### Cron Job
-	- [x] Install **Cron** package using `npm install cron`, to create a **CronJob** which generates **dynamicTwitterHeader.png** at a specified time.
-	- [x] Import **const CronJob = require("cron").CronJob** dependency on top of `index.js`.
-	- [x] Create a new object **job** from the **CronJob class** which calls `generateHeader()` wrapper function once per minute.
-	- [x] Test `job` object and check if **dynamicTwitterHeader.png** is successfuly created and uploaded to Twitter(IT WORKS yeehaw :tada:)
-	- [x] Change **CronJob** to run once every 15 MINUTES in order to avoid making too many requests to **Twitter API** and not to run out of **dyno hours** on **Heroku**.
+8. ### Organize components
 
-9. ### Deploy to Heroku
-	- [x] Signed up for **Heroku** free tier(500 Dyno Hours/ month)
-	- [x] Followed [this](https://medium.com/nerd-for-tech/create-twitter-bot-using-nodejs-and-deploy-on-heroku-dd6ec31534f4) medium article by Rushikesh Mhetre to Deploy our bot on **Heroku** and have it run remotely
-	- [x] Add a `Procfile` to repo and `worker: node index.js` as a command. Disable `Web: npm start` dyno and enable `worker: node index.js` dyno in **Resources** tab under **Dashboard** to start generating header every 15 minutes :smile:
+9. ### Run React locally with Vite
 
+10. ### Quick mental outline of project
 
-10. ### Delete old profile pictures
-	- [x] Only keep profile pictures of 3 latest followers and delete the rest. -->
+11. ### Project setup
+
+12. ### Quick Figma Walkthrough
+
+13. ### Navbar & Styling
+
+14. ### Main Section
+
+15. ### Color the bullets
+
+16. ### Add background logo
 
 
 ## Links to content that helped me with this project
