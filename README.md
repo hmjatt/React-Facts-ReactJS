@@ -77,8 +77,14 @@ npm install
 2. Scrimba
 
 3. React Official Documentation
+	- [React Hello World Example](https://reactjs.org/docs/hello-world.html)
+	- [Introduction To JSX](https://reactjs.org/docs/introducing-jsx.html)
+	- [Rendering Elements In React](https://reactjs.org/docs/rendering-elements.html)
+	- [Components and Props](https://reactjs.org/docs/components-and-props.html)
 
-4. Figma Design
+4. YouTube
+
+5. Figma Design
 	- [React Facts](https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0%3A1)
 
 
