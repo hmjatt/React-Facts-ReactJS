@@ -2,7 +2,7 @@
 Creating a project that states some of the fun facts about ReactJS
 
 
-## [Live Preview]()
+<!-- ## [Live Preview]()
 
 ![This is an image]() -->
 
