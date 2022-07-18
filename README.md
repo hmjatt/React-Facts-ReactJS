@@ -5,9 +5,9 @@ Creating a project that states some of the fun facts about ReactJS
 <!-- # Twitter-header
 A Node script to create Dynamic Twitter Header
 
-## [Live Preview](https://twitter.com/hmjatt/)
+## [Live Preview]()
 
-![This is an image](https://github.com/hmjatt/Twitter-header/blob/main/public/images/headers/twitterHeader.png) -->
+![This is an image]() -->
 
 
 <!-- This project is created to create a Twitter Bot in NodeJS that fetches 3 latest followers using Twitter API V2 and create a Dynamic Twitter Header and upload it to Twitter. Dotenv, Axios, Sharp, Cron NPM packages are also used in this project.**CronJob** is run once every 15 MINUTES in order to avoid making too many requests to **Twitter API** and not to run out of **dyno hours** on **Heroku**. :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :robot: -->
