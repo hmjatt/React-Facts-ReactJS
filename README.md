@@ -76,7 +76,8 @@ npm install
 
 3. React Official Documentation
 
-4. Design Inspiration
+4. Figma Design
+	-[React Facts](https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?node-id=0%3A1)
 
 
 
