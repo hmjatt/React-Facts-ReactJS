@@ -21,12 +21,12 @@ This project is created to practice ReactJS and includes fun facts about **React
 	- NPM
 	- ReactJS
 
-## Usage
+<!-- ## Usage
 
 ```
 npm install
 
-```
+``` -->
 
 	
 ## Steps I followed to complete this project
@@ -66,32 +66,13 @@ npm install
 
 ## Links to content that helped me with this project
 
-<!-- 1. Tutorials
-	- [Article on Dev.to by Dom The Dev](https://dev.to/dom_the_dev/build-an-automatically-updating-twitter-header-with-nodejs-and-twitter-api-2g2d)
-	- [Youtube Video by Dom The Dev](https://www.youtube.com/watch?v=jl9OKxoqVcA)
-	- [GitHub Repo by Dom The Dev](https://github.com/dom-the-dev/twitter-banner)
-	- [Freecodecamp Article by Spruce Emmanuel](https://www.freecodecamp.org/news/create-a-dynamic-twitter-header/)
+1. The Odin Project
 
-2. Twitter
-	- [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard)
-	
-3. Canva
-	- [Twitter Header Template](https://www.canva.com/twitter/templates/headers/)
+2. Scrimba
 
-4. NPM Packages
-	- [Twitter API v2](https://www.npmjs.com/package/twitter-api-v2)
-	- [Dotenv Package](https://www.npmjs.com/package/dotenv)
-	- [Cron Package](https://www.npmjs.com/package/cron)
-	- [Sharp Package](https://www.npmjs.com/package/sharp)
-	- [Axios Package](https://www.npmjs.com/package/axios)
-	- [Jimp Package](https://www.npmjs.com/package/jimp)
+3. React Official Documentation
 
-5. Deploy to Heroku
-	- [Heroku Pricing](https://www.heroku.com/pricing#containers)
-	- [Heroku Docs(Define a Procfile)](https://devcenter.heroku.com/articles/getting-started-with-nodejs#define-a-procfile)
-	- [Medium article by Rushikesh Mhetre](https://medium.com/nerd-for-tech/create-twitter-bot-using-nodejs-and-deploy-on-heroku-dd6ec31534f4)
-	- [Medium article by Sachin Sarawgi](https://medium.com/@codesprintpro/twitter-bot-using-nodejs-c72a2a50628d) -->
-	
+4. Design Inspiration
 
 
 
