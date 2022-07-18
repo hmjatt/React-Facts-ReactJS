@@ -25,6 +25,7 @@ This project is created to practice ReactJS and includes fun facts about **React
 	- NPM
 	- ReactJS
 	- Custom Components
+	- create-react-app
 
 <!-- ## Usage
 
