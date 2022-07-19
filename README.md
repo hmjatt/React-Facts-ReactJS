@@ -49,9 +49,9 @@ npm install
 4. ### Parent/Child Components
 	- [x] Import **Header**, **MainContent**, **Footer** components inside `App` component
 
-5. ### Styling with Classes
-
 6. ### Organize components
+	- [ ] Create a **components** folder inside `src` directory
+	- [ ] Move all **custom components** inside `components` folder
 
 7. ### Run React locally with Vite
 
