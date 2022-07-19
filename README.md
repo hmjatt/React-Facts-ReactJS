@@ -42,19 +42,18 @@ npm install
 
 2. ### Project markup
 	- [x] Create JSX elements for project
-	- [x] Style created elements
 
-3. ### Pop quiz!
+3. ### Custom Components
+	- [x] Insert **Header**, **MainContent**, **Footer** inside their own component
 
-4. ### Custom Components
+4. ### Parent/Child Components
+	- [x] Import **Header**, **MainContent**, **Footer** components inside `App` component
 
-5. ### Parent/Child Components
+5. ### Styling with Classes
 
-7. ### Styling with Classes
+6. ### Organize components
 
-8. ### Organize components
-
-9. ### Run React locally with Vite
+7. ### Run React locally with Vite
 
 10. ### Quick mental outline of project
 
