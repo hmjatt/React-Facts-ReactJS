@@ -41,8 +41,9 @@ npm install
 	- [x] Initailize the project using `npx create-react-app react-facts` which created a complete **React App** pre-configured and pre-installed with all the dependencies.
 
 2. ### Project markup
-	- [ ] Create JSX elements for project
-	
+	- [x] Create JSX elements for project
+	- [x] Style created elements
+
 3. ### Pop quiz!
 
 4. ### Custom Components
