@@ -21,12 +21,21 @@ nav {
     padding: 30px 25px;
 }
 
-/* .nav-logo-text, .nav-title */
-
-ul {
-	text-align: start;
+.nav-logo-text, .nav-title {
+	margin: 0;
 }
 
+.nav-logo-text {
+    margin-right: auto;
+    color: #61DAFB;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.nav-title {
+    color: #DEEBF8;
+    font-weight: 600;
+}
 
 @keyframes App-logo-spin {
 	from {
