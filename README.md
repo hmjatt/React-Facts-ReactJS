@@ -55,12 +55,9 @@ npm install
 
 6. ### Update Project Markup according to **Figma Template**
 	- [x] Add `<h3>`, `<h4>` elements to `Header` component and add **className** to them.
-	- []
 
-
-13. ### Navbar & Styling
-
-14. ### Main Section
+7. ### Styling Components
+	- [ ] Style `Header` component
 
 15. ### Color the bullets
 
