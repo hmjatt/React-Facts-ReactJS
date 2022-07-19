@@ -40,26 +40,23 @@ npm install
 1. ### Initialize Project
 	- [x] Initailize the project using `npx create-react-app react-facts` which created a complete **React App** pre-configured and pre-installed with all the dependencies.
 
-2. ### Project markup
-	- [x] Create JSX elements for project
+2. ### Project Markup
+	- [x] Create JSX elements for project.
 
 3. ### Custom Components
-	- [x] Insert **Header**, **MainContent**, **Footer** inside their own component
+	- [x] Insert **Header**, **MainContent**, **Footer** inside their own component.
 
 4. ### Parent/Child Components
-	- [x] Import **Header**, **MainContent**, **Footer** components inside `App` component
+	- [x] Import **Header**, **MainContent**, **Footer** components inside `App` component.
 
-6. ### Organize components
-	- [x] Create a **components** folder inside `src` directory
-	- [x] Move all **custom components** inside `components` folder
+5. ### Organize components
+	- [x] Create a **components** folder inside `src` directory.
+	- [x] Move all **custom components** inside `components` folder.
 
-7. ### Run React locally with Vite
+6. ### Update Project Markup according to **Figma Template**
+	- [x] Add `<h3>`, `<h4>` elements to `Header` component and add **className** to them.
+	- []
 
-10. ### Quick mental outline of project
-
-11. ### Project setup
-
-12. ### Quick Figma Walkthrough
 
 13. ### Navbar & Styling
 
