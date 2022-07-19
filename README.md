@@ -50,8 +50,8 @@ npm install
 	- [x] Import **Header**, **MainContent**, **Footer** components inside `App` component
 
 6. ### Organize components
-	- [ ] Create a **components** folder inside `src` directory
-	- [ ] Move all **custom components** inside `components` folder
+	- [x] Create a **components** folder inside `src` directory
+	- [x] Move all **custom components** inside `components` folder
 
 7. ### Run React locally with Vite
 
