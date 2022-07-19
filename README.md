@@ -37,20 +37,17 @@ npm install
 	
 ## Steps I followed to complete this project
 
-0. ### Initialize Project
+1. ### Initialize Project
 	- [x] Initailize the project using `npx create-react-app react-facts` which created a complete **React App** pre-configured and pre-installed with all the dependencies.
 
-1. ### Project part 1 - markup
-	- [ ] 4:44
-2. ### Pop quiz!
+2. ### Project markup
+	- [ ] Create JSX elements for project
+	
+3. ### Pop quiz!
 
-3. ### Custom Components
+4. ### Custom Components
 
-4. ### Custom Components part 2
-
-5. ### Custom Components Quiz
-
-6. ### Parent/Child Components
+5. ### Parent/Child Components
 
 7. ### Styling with Classes
 
