@@ -28,12 +28,18 @@ This project is created to practice ReactJS and includes fun facts about **React
 	- Custom Components
 	- create-react-app
 
-<!-- ## Usage
+## Usage
+
+```
+cd react-facts
+
+```
+
 
 ```
 npm install
 
-``` -->
+```
 
 	
 ## Steps I followed to complete this project
