@@ -1,5 +1,6 @@
 .App {
 	margin: auto;
+	max-width: 800px;
 }
 
 /* Header Component */
@@ -77,6 +78,7 @@ main {
     line-height: 1.2em;
     padding-block: 0.8em;
 	font-weight: 500;
+	/* padding-bottom: 2em; */
 }
 
 .main-facts > li::marker {
@@ -100,7 +102,7 @@ main {
 	}
 	.App-logo-main {
 		height: 40vh;
-		left: 60%;
+		left: 40%;
 		top: 45%;
 	}
   }
