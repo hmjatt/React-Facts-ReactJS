@@ -57,8 +57,10 @@ npm install
 	- [x] Add `<h3>`, `<h4>` elements to `Header` component and add **className** to them.
 
 7. ### Styling Components
-	- [x] Style `Header` component
-	- [x] Added Style to `body`element and `App` component 
+	- [x] Style `Header` component.
+	- [x] Added Style to `body` element and `App` component.
+	- [x] Add **className** to `MainContent` component's elements.
+	- [ ] Style `MainContent` component
 
 15. ### Color the bullets
 
