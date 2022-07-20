@@ -2,9 +2,10 @@
 Creating a project that states some of the fun facts about ReactJS
 
 
-<!-- ## [Live Preview]()
+<!-- ## [Live Preview]() -->
 
-![This is an image]() -->
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts.png) 
+![This is an image]() 
 
 
 This project is created to practice ReactJS and includes fun facts about **ReactJS Library**. While creating this project I learned about creating/organizing **React Components**, **Styling With Classes**, using **Figma Design Templates**, etc. :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :paintbrush:
