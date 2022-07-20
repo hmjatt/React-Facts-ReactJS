@@ -65,8 +65,11 @@ npm install
 	- [x] Add **React Logo** in `MainContent` component.
 	- [x] Style `Footer` component.
 
-8. ### Deploy
-	- [ ] Push project to **GitHub Pages**
+8. ### Compile For Production
+	- [ ] Use `npm run build` to bundle project for **Production**.
+
+9. ### Deploy
+	- [ ] Push project  to **GitHub Pages**
 
 
 
