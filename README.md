@@ -61,11 +61,9 @@ npm install
 	- [x] Added Style to `body` element and `App` component.
 	- [x] Add **className** to `MainContent` component's elements.
 	- [x] Style `MainContent` component.
-	- [x] Style **bullet** points inside `MainContent` component.
+	- [x] Style **bullet** points in `MainContent` component.
+	- [ ] Add **React Logo** in `MainContent` component.
 
-15. ### Color the bullets
-
-16. ### Add background logo
 
 
 ## Links to content that helped me with this project
