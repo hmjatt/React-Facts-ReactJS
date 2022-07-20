@@ -60,7 +60,8 @@ npm install
 	- [x] Style `Header` component.
 	- [x] Added Style to `body` element and `App` component.
 	- [x] Add **className** to `MainContent` component's elements.
-	- [ ] Style `MainContent` component
+	- [x] Style `MainContent` component.
+	- [x] Style **bullet** points inside `MainContent` component.
 
 15. ### Color the bullets
 
