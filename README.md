@@ -27,6 +27,8 @@ This project is created to practice ReactJS and includes fun facts about **React
 	- ReactJS
 	- Custom Components
 	- create-react-app
+	- Figma
+	- github-pages
 
 ## Usage
 
