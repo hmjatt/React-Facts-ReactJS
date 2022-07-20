@@ -95,6 +95,15 @@ main {
 
 /* MainContent Component */
 
+/* Footer Component */
+footer {
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: 600;
+	color: #DEEBF8;
+}
+/* Footer Component */
+
 
 @media only screen and (max-width: 900px) {
 	.App {

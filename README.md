@@ -62,7 +62,11 @@ npm install
 	- [x] Add **className** to `MainContent` component's elements.
 	- [x] Style `MainContent` component.
 	- [x] Style **bullet** points in `MainContent` component.
-	- [ ] Add **React Logo** in `MainContent` component.
+	- [x] Add **React Logo** in `MainContent` component.
+	- [x] Style `Footer` component.
+
+8. ### Deploy
+	- [ ] Push project to **GitHub Pages**
 
 
 
