@@ -2,7 +2,7 @@
 Creating a project that states some of the fun facts about ReactJS
 
 
-<!-- ## [Live Preview]() -->
+## [Live Preview](https://hmjatt.github.io/React-Facts-ReactJS/)
 
 ![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts.png) 
 ![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts-mobile.png) 
