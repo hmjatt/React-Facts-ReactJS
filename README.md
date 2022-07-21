@@ -76,7 +76,7 @@ npm start
 	- [x] Style `Footer` component.
 
 8. ### Deploy
-	- [ ] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages**
+	- [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages**
 
 
 
