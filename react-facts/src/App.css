@@ -10,7 +10,9 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-	.App-logo, .App-logo-main {
+
+	.App-logo,
+	.App-logo-main {
 		animation: App-logo-spin infinite 20s linear;
 	}
 }
@@ -56,34 +58,34 @@ nav {
 /* MainContent Component */
 
 main {
-    padding: 3.5em 3em;
-    color: white;
+	padding: 3.5em 3em;
+	color: white;
 	background-color: #282D35;
 	overflow: hidden;
 	position: relative;
 }
 
 .main-title {
-    margin: 0;
-    font-size: 2.5em;
-    letter-spacing: -0.03em;
+	margin: 0;
+	font-size: 2.5em;
+	letter-spacing: -0.03em;
 }
 
 .main-facts {
-    margin-top: 2.5em;
+	margin-top: 2.5em;
 	position: relative;
 }
 
-.main-facts > li {
-    line-height: 1.2em;
-    padding-block: 0.8em;
+.main-facts>li {
+	line-height: 1.2em;
+	padding-block: 0.8em;
 	font-weight: 500;
 	/* padding-bottom: 2em; */
 }
 
-.main-facts > li::marker {
-    font-size: 1.4rem;
-    color: #61DAFB;
+.main-facts>li::marker {
+	font-size: 1.4rem;
+	color: #61DAFB;
 }
 
 .App-logo-main {
@@ -102,6 +104,7 @@ footer {
 	font-weight: 600;
 	color: #DEEBF8;
 }
+
 /* Footer Component */
 
 
@@ -109,12 +112,10 @@ footer {
 	.App {
 		margin: 0;
 	}
+
 	.App-logo-main {
 		height: 40vh;
 		left: 40%;
 		top: 45%;
 	}
-  }
-
-
-  
+}
