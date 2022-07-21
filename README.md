@@ -74,11 +74,8 @@ npm install
 	- [x] Add **React Logo** in `MainContent` component.
 	- [x] Style `Footer` component.
 
-8. ### Compile For Production
-	- [ ] Use `npm run build` to bundle project for **Production**.
-
-9. ### Deploy
-	- [ ] Push project  to **GitHub Pages**
+8. ### Deploy
+	- [ ] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages**
 
 
 
@@ -96,6 +93,7 @@ npm install
 	- [Introduction To JSX](https://reactjs.org/docs/introducing-jsx.html)
 	- [Rendering Elements In React](https://reactjs.org/docs/rendering-elements.html)
 	- [Components and Props](https://reactjs.org/docs/components-and-props.html)
+	- [Deployment to **gh-pages**](https://create-react-app.dev/docs/deployment/)
 
 4. YouTube
 	- [ReactJS Basics Video Series From Academind](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
