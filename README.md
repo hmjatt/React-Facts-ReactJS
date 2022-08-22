@@ -83,7 +83,7 @@ npm start
 	- [x] Style the `Light/Dark Mode Toggle` button.
 	- [x] Add logic for `Light/Dark Mode Toggle` button inside **`Header`** component for it to work.
 	- [x] Add logic for `Light/Dark Mode Toggle` button inside **`MainContent`** component for it to work and style it.
-	- [ ] Create a `darkMode` state, `toggleDarkMode` function inside **`App`** component and pass the necessary props to **`Header`** and **`MainContent`**.
+	- [x] Create a `darkMode` state, `toggleDarkMode` function inside **`App`** component and pass the necessary props to **`Header`** and **`MainContent`**.
 	
 
 ## Links to content that helped me with this project
