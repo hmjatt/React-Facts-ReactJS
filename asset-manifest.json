@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Facts-ReactJS/static/css/main.1b587b83.css",
-    "main.js": "/React-Facts-ReactJS/static/js/main.144504ea.js",
+    "main.css": "/React-Facts-ReactJS/static/css/main.d8f0c978.css",
+    "main.js": "/React-Facts-ReactJS/static/js/main.204e4158.js",
     "static/js/787.dc5dba0f.chunk.js": "/React-Facts-ReactJS/static/js/787.dc5dba0f.chunk.js",
+    "static/media/logo-main-light.svg": "/React-Facts-ReactJS/static/media/logo-main-light.769337ab0520358a605cddcb0b0efaf1.svg",
     "static/media/logo-main.svg": "/React-Facts-ReactJS/static/media/logo-main.1ed72b2df5ffe11a507d6a3d2d2d41aa.svg",
     "static/media/logo.svg": "/React-Facts-ReactJS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-Facts-ReactJS/index.html",
-    "main.1b587b83.css.map": "/React-Facts-ReactJS/static/css/main.1b587b83.css.map",
-    "main.144504ea.js.map": "/React-Facts-ReactJS/static/js/main.144504ea.js.map",
+    "main.d8f0c978.css.map": "/React-Facts-ReactJS/static/css/main.d8f0c978.css.map",
+    "main.204e4158.js.map": "/React-Facts-ReactJS/static/js/main.204e4158.js.map",
     "787.dc5dba0f.chunk.js.map": "/React-Facts-ReactJS/static/js/787.dc5dba0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b587b83.css",
-    "static/js/main.144504ea.js"
+    "static/css/main.d8f0c978.css",
+    "static/js/main.204e4158.js"
   ]
 }
