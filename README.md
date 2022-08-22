@@ -4,8 +4,9 @@ Creating a project that states some of the fun facts about ReactJS
 
 ## [Live Preview](https://hmjatt.github.io/React-Facts-ReactJS/)
 
-![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts.png) 
-![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/React-Facts-mobile.png) 
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/facts-light.png)
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/facts-dark.png)
+![This is an image](https://github.com/hmjatt/hmjatt.github.io/blob/master/images/react-facts/facts-mode-mobile.png)
 
 
 This project is created to practice ReactJS and includes fun facts about **ReactJS Library**. While creating this project I learned about creating/organizing **React Components**, **Styling With Classes**, using **Figma Design Templates**, etc. :bird: Feel free to reach me at [Twitter](https://twitter.com/hmjatt/) :paintbrush:
