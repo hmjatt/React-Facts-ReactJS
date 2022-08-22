@@ -78,7 +78,13 @@ npm start
 8. ### Deploy
 	- [x] Use Official Documentation([link](https://create-react-app.dev/docs/deployment/)) to push project  to **GitHub Pages**
 
-
+9. ### Add Light/Dark Mode Toggle
+	- [ ] Modify **`Header`** component to add a `Light/Dark Mode Toggle` button.
+	- [ ] Style the `Light/Dark Mode Toggle` button.
+	- [ ] Add logic for `Light/Dark Mode Toggle` button inside **`Header`** component for it to work.
+	- [ ] Add logic for `Light/Dark Mode Toggle` button inside **`MainContent`** component for it to work.
+	- [ ] Create a `darkMode` state, `toggleDarkMode` function inside **`App`** component and pass the necessary props to **`Header`** and **`MainContent`**.
+	
 
 ## Links to content that helped me with this project
 
